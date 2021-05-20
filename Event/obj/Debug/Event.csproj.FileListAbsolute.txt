@@ -1,0 +1,11 @@
+D:\C#\Event\bin\Debug\Event.exe.config
+D:\C#\Event\bin\Debug\Event.exe
+D:\C#\Event\bin\Debug\Event.pdb
+D:\C#\Event\obj\Debug\Event.csprojAssemblyReference.cache
+D:\C#\Event\obj\Debug\Event.Form1.resources
+D:\C#\Event\obj\Debug\Event.Form2.resources
+D:\C#\Event\obj\Debug\Event.Properties.Resources.resources
+D:\C#\Event\obj\Debug\Event.csproj.GenerateResource.cache
+D:\C#\Event\obj\Debug\Event.exe
+D:\C#\Event\obj\Debug\Event.pdb
+D:\C#\Event\obj\Debug\Event.Form3.resources

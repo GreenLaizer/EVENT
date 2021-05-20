@@ -1,0 +1,6 @@
+﻿namespace xDoc
+{
+    class Load
+    {
+    }
+}
